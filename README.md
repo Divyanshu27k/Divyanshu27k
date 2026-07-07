@@ -1,99 +1,193 @@
-<h1 align="center">Hi 👋, I'm Divyanshu</h1>
-<h3 align="center">🚀 Backend & Software Engineer | Java • Spring Boot • AWS • Docker • Kubernetes</h3>
+<h1 align="center">Hi 👋, I'm Divyanshu Kumar</h1>
+
+<h3 align="center">
+🚀 Backend & Software Engineer | Java • Spring Boot • AWS • Docker • Kubernetes
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Divyanshu27k&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Backend+Developer;Java+%7C+Spring+Boot+Developer;AWS+%7C+Docker+%7C+Kubernetes;Building+Scalable+Applications;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
-  💡 Building scalable microservices & automated CI/CD pipelines <br/>
-  🔥 Passionate about backend architecture, cloud & DevOps
-</p>
-
----
-
-## 🚀 About Me
-
-* 🔭 Currently working on **Microservices & DevOps Projects**
-* ⚙️ Strong in **Spring Boot, REST APIs, System Design**
-* ☁️ Hands-on with **AWS, Docker, Kubernetes, Jenkins**
-* 📈 Focused on building **scalable & production-ready systems**
-* 🎯 Goal: Become a **Top Backend + DevOps Engineer**
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,docker,kubernetes,aws,jenkins,mysql,mongodb,git,github,linux" />
+<img src="https://komarev.com/ghpvc/?username=Divyanshu27k&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 About Me
 
-### 🏋️ Gym Management SaaS
-
-🔹 Full-stack SaaS platform for managing gyms, members & payments
-🔹 Multi-user roles + analytics dashboard
-
-### 🏦 Banking Microservices Application
-
-🔹 Secure & scalable microservices-based banking system
-🔹 JWT authentication + transaction management
-
-### 🛒 Retail Management System
-
-🔹 Inventory + billing + real-time tracking system
-🔹 Barcode scanning + PDF invoice generation
-
-### 🏥 Hospital Management System
-
-🔹 Enterprise-grade healthcare management platform
-🔹 Patient, doctor & billing modules
+- 🔭 Currently working on **Microservices & DevOps Projects**
+- 🌱 Learning **AWS | Kubernetes | System Design**
+- 💻 Backend Developer using **Java & Spring Boot**
+- ☁️ Cloud Enthusiast
+- 📦 Love Docker & Kubernetes
+- 🚀 Passionate about scalable backend systems
+- 🎯 Goal: Become a Senior Backend Engineer
 
 ---
 
-## 📊 GitHub Analytics
+# 🛠 Tech Stack
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Divyanshu27k&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu27k&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Divyanshu27k&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,docker,kubernetes,aws,jenkins,git,github,linux,idea,vscode,maven,postman"/>
+
 </p>
 
 ---
 
-## ⚡ DevOps Focus
+# 🚀 Featured Projects
 
-* 🔄 CI/CD Pipelines using **Jenkins + Docker**
-* ☁️ Deployment on **AWS (EC2, RDS, S3)**
-* 📦 Containerization using **Docker**
-* ☸️ Orchestration using **Kubernetes**
+## 🏋️ Gym Management SaaS
 
----
-
-## 🌍 Portfolio
-
-🔗 https://divyanshu27k.online
+- Spring Boot
+- React
+- JWT Authentication
+- Dashboard
+- Payment Module
 
 ---
 
-## 📫 Connect With Me
+## 🏦 Banking Microservices
+
+- Spring Cloud
+- API Gateway
+- Eureka
+- Docker
+- JWT
+- MySQL
+
+---
+
+## 🛒 Retail Management System
+
+- Inventory
+- Billing
+- Barcode Scanner
+- PDF Invoice
+
+---
+
+## 🏥 Hospital Management System
+
+- Patient Module
+- Doctor Module
+- Billing Module
+- Reports
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Divyanshu27k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu27k&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Divyanshu27k&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 💻 Most Used Programming Languages
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Divyanshu27k&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Divyanshu27k&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyanshu27k&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 📊 GitHub Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Divyanshu27k&theme=tokyonight"/>
+
+</p>
+
+---
+
+# ⏰ Productive Time
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Divyanshu27k&theme=tokyonight&utcOffset=5.5"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Divyanshu27k&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# ⚡ DevOps Skills
+
+- ✅ Docker
+- ✅ Kubernetes
+- ✅ Jenkins
+- ✅ GitHub Actions
+- ✅ AWS EC2
+- ✅ AWS RDS
+- ✅ AWS S3
+- ✅ Linux
+
+---
+
+# 🌍 Portfolio
+
+### 🔗 https://divyanshu27k.online
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
 <a href="https://www.linkedin.com/in/divyanshu27k/">
+
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+
 </a>
+
 </p>
 
 ---
 
-## 🧠 Quote
+# 🧠 Quote
 
 <p align="center">
-  ⭐ <b>Code. Build. Deploy. Scale.</b> 🚀
+
+## ⭐ Code • Build • Deploy • Scale 🚀
+
 </p>
