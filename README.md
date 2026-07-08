@@ -17,7 +17,7 @@
 # 🚀 About Me
 
 - 🔭 Currently working on **Microservices & DevOps Projects**
-- 🌱 Learning **AWS | Kubernetes | System Design**
+- 🌱 Learning **AWS | Docker | Kubernetes | System Design**
 - 💻 Backend Developer using **Java & Spring Boot**
 - ☁️ Cloud Enthusiast
 - 📦 Love Docker & Kubernetes
