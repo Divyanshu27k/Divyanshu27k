@@ -43,7 +43,7 @@
 
 ---
 
-#  <h2 align="center">⚙️ Backend Skills</h2>
+#  ⚙️ Backend Skills
 
 | Technology | Experience |
 |------------|------------|
@@ -181,19 +181,13 @@
 
 <p align="center">
 
-✅ Docker &nbsp;&nbsp;
-✅ Kubernetes &nbsp;&nbsp;
-✅ Jenkins &nbsp;&nbsp;
+✅ Docker
+✅ Kubernetes 
+✅ Jenkins
 ✅ GitHub Actions
-
-<br><br>
-
 ✅ AWS EC2
-
 ✅ AWS RDS
-
 ✅ AWS S3
-
 ✅ Linux
 
 </p>
