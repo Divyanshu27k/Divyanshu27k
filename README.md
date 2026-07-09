@@ -43,7 +43,7 @@
 
 ---
 
-# ⚙ Backend Skills
+#  <h2 align="center">⚙️ Backend Skills</h2>
 
 | Technology | Experience |
 |------------|------------|
@@ -146,15 +146,6 @@
 
 ---
 
----
-
-## 💻 Most Used Languages
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu27k&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 # 📈 Contribution Graph
 
@@ -181,16 +172,6 @@
 <p align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Divyanshu27k&theme=tokyonight&utcOffset=5.5"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Divyanshu27k&theme=tokyonight&row=2&column=4&no-frame=true"/>
 
 </p>
 
