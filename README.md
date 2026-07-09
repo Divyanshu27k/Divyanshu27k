@@ -182,12 +182,19 @@
 <p align="center">
 
 ✅ Docker
+
 ✅ Kubernetes 
+
 ✅ Jenkins
+
 ✅ GitHub Actions
+
 ✅ AWS EC2
+
 ✅ AWS RDS
+
 ✅ AWS S3
+
 ✅ Linux
 
 </p>
