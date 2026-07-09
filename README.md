@@ -186,32 +186,12 @@
 
 ---
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Divyanshu27k/Divyanshu27k/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
 # 🏆 GitHub Trophy
 
 <p align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Divyanshu27k&theme=tokyonight&row=2&column=4&no-frame=true"/>
 
-</p>
-
----
-
----
-
-## 📊 GitHub Summary
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Divyanshu27k&theme=tokyonight"/>
 </p>
 
 ---
