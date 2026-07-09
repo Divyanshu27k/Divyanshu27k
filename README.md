@@ -1,3 +1,8 @@
+```markdown
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00F5FF,100:6C63FF&text=Divyanshu%20Kumar&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=fadeIn&desc=Backend%20Developer%20|%20Java%20|%20Spring%20Boot%20|%20AWS&descAlignY=58"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Divyanshu Kumar</h1>
 
 <h3 align="center">
@@ -5,24 +10,26 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Backend+Developer;Java+%7C+Spring+Boot+Developer;AWS+%7C+Docker+%7C+Kubernetes;Building+Scalable+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Java+Backend+Developer;Spring+Boot+Developer;Microservices+Architecture;AWS+%7C+Docker+%7C+Kubernetes;Building+Scalable+Applications;Always+Learning+New+Technologies;Open+Source+Contributor+🚀"/>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Divyanshu27k&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Divyanshu27k&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Divyanshu27k?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/Divyanshu27k?style=for-the-badge&logo=github"/>
 </p>
 
 ---
 
 # 🚀 About Me
 
-- 🔭 Currently working on **Microservices & DevOps Projects**
-- 🌱 Learning **AWS | Docker | Kubernetes | System Design**
-- 💻 Backend Developer using **Java & Spring Boot**
+- 🔭 Working on **Spring Boot Microservices**
+- 🌱 Learning **AWS | Docker | Kubernetes | Redis | Kafka**
+- 💻 Java Backend Developer
 - ☁️ Cloud Enthusiast
-- 📦 Love Docker & Kubernetes
-- 🚀 Passionate about scalable backend systems
-- 🎯 Goal: Become a Senior Backend Engineer
+- ⚡ Passionate about scalable distributed systems
+- 📦 Love DevOps & Automation
+- 🎯 Goal: **Senior Backend Engineer**
 
 ---
 
@@ -30,68 +37,110 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,docker,kubernetes,aws,jenkins,git,github,linux,idea,vscode,maven,postman"/>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,mongodb,redis,kafka,docker,kubernetes,aws,jenkins,git,github,maven,linux,idea,vscode,postman&perline=6"/>
 
 </p>
+
+---
+
+# ⚙ Backend Skills
+
+| Technology | Experience |
+|------------|------------|
+| Java 17/21 | ⭐⭐⭐⭐⭐ |
+| Spring Boot | ⭐⭐⭐⭐⭐ |
+| Microservices | ⭐⭐⭐⭐⭐ |
+| REST APIs | ⭐⭐⭐⭐⭐ |
+| Spring Security | ⭐⭐⭐⭐⭐ |
+| JWT Authentication | ⭐⭐⭐⭐⭐ |
+| Docker | ⭐⭐⭐⭐ |
+| Kubernetes | ⭐⭐⭐⭐ |
+| AWS | ⭐⭐⭐⭐ |
+| Redis | ⭐⭐⭐⭐ |
+| Kafka | ⭐⭐⭐⭐ |
+| Jenkins | ⭐⭐⭐⭐ |
 
 ---
 
 # 🚀 Featured Projects
 
-## 🏋️ Gym Management SaaS
+## 🏋 Gym Management SaaS
 
-- Spring Boot
-- React
-- JWT Authentication
-- Dashboard
-- Payment Module
+✔ Spring Boot
+
+✔ React
+
+✔ JWT Authentication
+
+✔ Dashboard
+
+✔ Payment Module
+
+✔ Docker Deployment
 
 ---
 
 ## 🏦 Banking Microservices
 
-- Spring Cloud
-- API Gateway
-- Eureka
-- Docker
-- JWT
-- MySQL
+✔ Spring Cloud
+
+✔ Eureka
+
+✔ API Gateway
+
+✔ JWT
+
+✔ Docker
+
+✔ MySQL
 
 ---
 
-## 🛒 Retail Management System
+## 🛒 Retail Billing System
 
-- Inventory
-- Billing
-- Barcode Scanner
-- PDF Invoice
+✔ Inventory
+
+✔ GST Billing
+
+✔ Barcode Scanner
+
+✔ PDF Invoice
+
+✔ Reports
 
 ---
 
 ## 🏥 Hospital Management System
 
-- Patient Module
-- Doctor Module
-- Billing Module
-- Reports
+✔ Patient Module
+
+✔ Doctor Module
+
+✔ Pharmacy Billing
+
+✔ Reports
+
+✔ Authentication
 
 ---
 
-## 🔥 GitHub Streak
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Divyanshu27k&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Divyanshu27k&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu27k&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-# 💻 Most Used Programming Languages
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Divyanshu27k&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Divyanshu27k&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Divyanshu27k&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -101,7 +150,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyanshu27k&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyanshu27k&theme=react-dark&hide_border=true&area=true"/>
 
 </p>
 
@@ -127,22 +176,46 @@
 
 ---
 
-# ⚡ DevOps Skills
+# 🏆 GitHub Trophy
 
-- ✅ Docker
-- ✅ Kubernetes
-- ✅ Jenkins
-- ✅ GitHub Actions
-- ✅ AWS EC2
-- ✅ AWS RDS
-- ✅ AWS S3
-- ✅ Linux
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Divyanshu27k&theme=tokyonight&row=2&column=4&no-frame=true"/>
+
+</p>
+
+---
+
+# ⚡ DevOps
+
+<p align="center">
+
+✅ Docker &nbsp;&nbsp;
+✅ Kubernetes &nbsp;&nbsp;
+✅ Jenkins &nbsp;&nbsp;
+✅ GitHub Actions
+
+<br><br>
+
+✅ AWS EC2
+
+✅ AWS RDS
+
+✅ AWS S3
+
+✅ Linux
+
+</p>
 
 ---
 
 # 🌍 Portfolio
 
+<p align="center">
+
 ### 🔗 https://divyanshu27k.online
+
+</p>
 
 ---
 
@@ -150,20 +223,35 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/divyanshu27k/">
+<a href="https://www.linkedin.com/in/divyanshu27k">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://github.com/Divyanshu27k">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
 
 ---
 
-# 🧠 Quote
+# 💡 Quote
 
 <p align="center">
 
-## ⭐ Code • Build • Deploy • Scale 🚀
+### ⭐ Code • Build • Deploy • Scale 🚀
 
 </p>
+
+---
+
+<p align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:00F5FF,100:6C63FF"/>
+
+</p>
+```
