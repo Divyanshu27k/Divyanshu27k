@@ -148,12 +148,10 @@
 
 ---
 
-# 💻 Most Used Programming Languages
+## 💻 Most Used Languages
 
-<p align="center"> 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Divyanshu27k&theme=tokyonight"/> 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Divyanshu27k&theme=tokyonight"/> 
-  
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu27k&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -255,7 +253,7 @@
 
 <p align="center">
 
-### ⭐ Code • Build • Deploy • Scale 🚀
+###                                       ⭐ Code • Build • Deploy • Scale 🚀
 
 </p>
 
