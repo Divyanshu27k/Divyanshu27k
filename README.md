@@ -139,9 +139,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Divyanshu27k&theme=tokyonight&hide_border=true"/>
-
+<img src="https://streak-stats.demolab.com?user=Divyanshu27k&theme=tokyonight&hide_border=true&v=1"/>
 </p>
 
 ---
@@ -246,4 +244,4 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:00F5FF,100:6C63FF"/>
 
 </p>
-``````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
