@@ -47,7 +47,7 @@
 
 | Technology | Experience |
 |------------|------------|
-| Java 17/21 | ⭐⭐⭐⭐⭐ |
+| Java 8/17/21 | ⭐⭐⭐⭐⭐ |
 | Spring Boot | ⭐⭐⭐⭐⭐ |
 | Microservices | ⭐⭐⭐⭐⭐ |
 | REST APIs | ⭐⭐⭐⭐⭐ |
