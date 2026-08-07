@@ -53,6 +53,7 @@
 | REST APIs | ⭐⭐⭐⭐⭐ |
 | Spring Security | ⭐⭐⭐⭐⭐ |
 | JWT Authentication | ⭐⭐⭐⭐⭐ |
+| MySQL | ⭐⭐⭐⭐⭐ |
 | Docker | ⭐⭐⭐⭐ |
 | Kubernetes | ⭐⭐⭐⭐ |
 | AWS | ⭐⭐⭐⭐ |
